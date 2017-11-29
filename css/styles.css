@@ -42,3 +42,7 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.quote {
+    margin-top: 20px;
+}
